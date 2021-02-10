@@ -13,10 +13,10 @@ Each word annotation is labeled as follows: Bangla words are labeled as ‘b’,
 
 Evaluation Protocol:
 The criteria for evaluation on MTDI include the choice of some standard metrics and protocols like Precision (P), Recall (R), F-measure and Accuracy that reflect the quality of performance of any method concerned that are defined as follows:
-P=TP/(TP+FP)					                (1)
-R=TP/(TP+FN)					                (2)
-F-measure=(2×P×R)/(P+R)				        (3)
-Accuracy=(TP+TN)/(TP+TN+FP+FN)				(4)
+1. P=TP/(TP+FP)
+2. R=TP/(TP+FN)
+3. F-measure=(2×P×R)/(P+R)
+4. Accuracy=(TP+TN)/(TP+TN+FP+FN)
 Where, P and R signify Precision and Recall in Eqs. (1) and (2) respectively.
 Also, TP denotes True Positives for pixels within the ground truth text boxes.
 The pixels falling outside the ground truth text boxes are considered as True Negatives denoted as TN.
