@@ -1,6 +1,6 @@
-# MTDI
-A new dataset called Multi-lingual Texts in Digital Images (MTDI) is introduced with the following salient features:
-1.	MTDI comprises of two sets of images: NSIs and BDIs. In a first of its kind, BDIs with multi-lingual texts have been introduced.
+# MITDI
+A new dataset called Mixed-lingual Indian Texts in Digital Images (MITDI) is introduced with the following salient features:
+1.	MITDI comprises of two sets of images: NSIs and BDIs. In a first of its kind, BDIs with mixed-lingual texts have been introduced.
 2.	The current version of this dataset houses images with texts in popular languages like English, Bangla and Hindi. Later versions shall include other Indian languages to present a thorough emphasis on the Indian scenario.
 3.	Each image contains texts written in at least two languages along with variations in orientations, fonts, sizes and shades of texts.
 4.	Tightly bounded annotations are done at word-level localization and language identification so that precise performance analysis can be made.
