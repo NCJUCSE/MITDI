@@ -12,7 +12,7 @@ The standard annotation followed is (x,y,wd,ht) where (x,y) is the starting coor
 Each word annotation is labeled as follows: Bangla words are labeled as ‘b’, English words as ‘e’ and Hindi words as ‘h’.
 
 Evaluation Protocol:
-The criteria for evaluation on MTDI include the choice of some standard metrics and protocols like Precision (P), Recall (R), F-measure and Accuracy that reflect the quality of performance of any method concerned that are defined as follows:
+The criteria for evaluation on MITDI include the choice of some standard metrics and protocols like Precision (P), Recall (R), F-measure and Accuracy that reflect the quality of performance of any method concerned that are defined as follows:
 
 1. P=TP/(TP+FP)
 2. R=TP/(TP+FN)
